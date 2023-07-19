@@ -90,13 +90,13 @@ The dataset used for this analysis includes the years 2000 to 2022(upto August),
 
 _________________________________________________________________________________________
 
-##Module 4
+## Module 4
 
-##Seasonal Trends in International Travel to Australia (2000 – 2022)
+## Seasonal Trends in International Travel to Australia (2000 – 2022)
 
 The dataset includes information on monthly international movement of travellers to Australia from 2000 – 2022. The analysis focuses on determining the busiest season on international travellers to Australia, most visited local cities, and busiest season of top local cities.
 
-##Table of Contents:
+## Table of Contents:
 - Module 4 with the main script
 - Module 4 analysis
 - Output folder with 4 charts
@@ -104,12 +104,12 @@ The dataset includes information on monthly international movement of travellers
   * internationalport_country.csv
   * localcity_australia.csv
 
-##Data Overview
+## Data Overview
 The dataset used for this analysis covers the years 2000 – 2022 with following columns:
-•	Month_num: month of travel
-•	Year: year of travel
-•	Passengers_In: international passengers to Australia
-•	AustralianPort: local city destination in Australia
+- Month_num: month of travel
+- Year: year of travel
+- Passengers_In: international passengers to Australia
+- AustralianPort: local city destination in Australia
 
 
 
