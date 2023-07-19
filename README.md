@@ -64,6 +64,8 @@ The analysis focuses on comparing the total number of passengers,most frequented
 ## Table of Contents:
 -Module 3 file with main script
 
+-Module 3 analysis 
+
 -Output folder containing 5 graphs
 
 -Resources folder containing 9 csv files with the cleaned DataSet
