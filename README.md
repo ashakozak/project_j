@@ -63,15 +63,22 @@ The analysis focuses on comparing the total number of passengers,most frequented
 
 ## Table of Contents:
 -Module 3 file with main script
+
 -Output folder containing 5 graphs
+
 -Resources folder containing 9 csv files with the cleaned DataSet
 
 ## Data Overview
 The dataset used for this analysis includes the years 2000 to 2022(upto August), which includes the following columns:
+
 -Airport:Airport destination
+
 -Year:Year of visit
+
 -Month:Month of visit
+
 -DOMESTIC_IN:Total number of Domestic passengers who visited
+
 -INTERNATIONAL_IN:Total number of International passengers who visited
 
 
