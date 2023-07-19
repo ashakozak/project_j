@@ -62,31 +62,31 @@ This module contains the analysis of Domestic and International passenger visits
 The analysis focuses on comparing the total number of passengers,most frequented Airports and the monthly peaks of Airports between Domestic and International passengers.
 
 ## Table of Contents:
--Module 3 file with main script
+- Module 3 file with main script
 
--Module 3 analysis 
+- Module 3 analysis 
 
--Output folder containing 5 graphs
+- Output folder containing 5 graphs
 
--Resources folder containing 9 csv files with the cleaned DataSet
+- Resources folder containing 9 csv files with the cleaned DataSet
 
 ## Data Overview
 The dataset used for this analysis includes the years 2000 to 2022(upto August), which includes the following columns:
 
--Airport:Airport destination
+- Airport:Airport destination
 
--Year:Year of visit
+- Year:Year of visit
 
--Month:Month of visit
+- Month:Month of visit
 
--DOMESTIC_IN:Total number of Domestic passengers who visited
+- DOMESTIC_IN:Total number of Domestic passengers who visited
 
--INTERNATIONAL_IN:Total number of International passengers who visited
+- INTERNATIONAL_IN:Total number of International passengers who visited
 
 ## Data sources:
--Airport Passenger Movements by Month-20 Major Airports- https://data.gov.au/data/dataset/cc5d888f-5850-47f3-815d-08289b22f5a8/resource/38bdc971-cb22-4894-b19a-814afc4e8164/download/mon_pax_web.csv
+- Airport Passenger Movements by Month-20 Major Airports- https://data.gov.au/data/dataset/cc5d888f-5850-47f3-815d-08289b22f5a8/resource/38bdc971-cb22-4894-b19a-814afc4e8164/download/mon_pax_web.csv
 
--OpenWeatherMap: meteorological data,coordinates and APIs | Weather Data platform
+- OpenWeatherMap: meteorological data,coordinates and APIs | Weather Data platform
 
 _________________________________________________________________________________________
 
