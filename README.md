@@ -26,6 +26,8 @@ The dataset used for this analysis covers the years 2000 to 2022. It includes th
 - Passengers_Out: The number of passengers traveling from Australia.
 
 _________________________________________________________________________________________
+
+
 ## Module 2
 
 ## International Passenger Airline Analysis: Australia (2003 - September 2022)
@@ -36,7 +38,7 @@ This module contains an in-depth analysis on international airlines to and from 
 Jyotsna Jayaraman
 
 ## Table of Contents:
-* Module 2 file with the main script, Observations and analysis
+* Module 2 file with the main script, observations and analysis
 * Output folder with 13 charts and an image of a map
 * Resources folder with the original data sets:
     *  international_airline_activity_opfltsseats.csv
