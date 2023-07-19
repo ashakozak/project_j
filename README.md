@@ -54,6 +54,32 @@ This module contains an in-depth analysis on international airlines to and from 
   _________________________________________________________________________________________
 
 
+## Module 3
+**##Comparative analysis between Domestic and International travel within Australia from 2000-2022**
+
+This module contains the analysis of Domestic and International passenger visits throughout 8 Australian Airports between the years of 2000 and 2022. 
+The analysis focuses on comparing the total number of passengers,most frequented Airports and the monthly peaks of Airports between Domestic and International passengers.
+
+
+
+**##Table of Contents**
+-Module 3 file with main script
+-Output folder containing 5 graphs
+-Resources folder containing 9 csv files with the cleaned DataSet
+
+
+
+**##Data Overview**
+The dataset used for this analysis includes the years 2000 to 2022(upto August), which includes the following columns:
+-Airport:Airport destination
+-Year:Year of visit
+-Month:Month of visit
+-DOMESTIC_IN:Total number of Domestic passengers who visited
+-INTERNATIONAL_IN:Total number of International passengers who visited
+
+
+
+
 
 
 
