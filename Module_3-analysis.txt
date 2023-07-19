@@ -1,0 +1,43 @@
+Module 3
+
+COMPARISON BETWEEN DOMESTIC VS INTERNATIONAL TRAVEL WITHIN AUSTRALIAS AIRPORTS 
+AND IDENTIFYING MONTHLY PEAKS 
+
+The reason these 8 airports were selected is because these 8 airports were the only Airports that had complete data from 2000-
+2022(August);including the covid affected months and years,in both domestic and international passengers.
+
+CONCLUSIONS
+
+Total Number of Domestic and International passengers per airport from 2000-2022 line graph ananlysis
+
+-It was observed that in both total number  of domestic and international passengers that the most frequeneted 
+airports were Sydney, Melbourne and Brisbane (in that order). The most plausible reason  for this observation 
+is that those cities with the Airports previously mentioned are the most developed cities in Australia based on their
+size of population of that state with Victoria being the largest followed by New South Wales and Queensland.
+-It was also observed that their was an exponential decrease in the total number of domestic and international passengers across
+all airports in the  year 2020 for domestic passengers and the year 2021 for intenrational passengers due to
+the COVID-19 pandemic which caused Australia to declare a state of emergency and begin closing its national and international borders.
+
+
+Comparison of total number of Domestic and International passengers per airport from 2000-2022 bar graph analysis
+
+-The obvious observation made here was the sheer difference between total number of domestic and international
+passenegers across all airports frequented, this is due to their being more AUstralians here on their home soil at any given time in comparison
+to International travelers, furthermore,Austrlaians would also have a multittude of reasons to be travelling within their home soil in comparison 
+to international travellers.
+
+Average Number of Domestic and International passenegers in Cairns and Darwin Airport per month from 2000-2022
+stacked bar graph analysis
+
+-Cairns and Darwin  were the only airports  that demonstrated a similar trend of monthly average peaks in the winter months of Australia 
+(June-August)in domestic and international passenegers.The highest monthly average number of domestic passengers who frequented Cairns Airport was in the month of July
+and for international passenegers it was the month of August. The highest monthly average number of domestic and international
+passengers who frequented Darwin Airport was the month of July.The most plausible reason for this could be due to the 
+warmer weather in Cairns and Darwin in those months seeing as they are closer to the equator which could have been the major influence.
+The weather in Cairns in the winter months has a high of 26 to a low of 17 and the weather in Darwin has a high 
+of 32 to a low of 20. Therefore, Australians during these winter months along with international travellers in Australia in those months
+could be wanting to escape the colder climates for some warmer weather.
+
+
+
+
