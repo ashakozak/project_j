@@ -83,6 +83,11 @@ The dataset used for this analysis includes the years 2000 to 2022(upto August),
 
 -INTERNATIONAL_IN:Total number of International passengers who visited
 
+## Data sources:
+-Airport Passenger Movements by Month-20 Major Airports- https://data.gov.au/data/dataset/cc5d888f-5850-47f3-815d-08289b22f5a8/resource/38bdc971-cb22-4894-b19a-814afc4e8164/download/mon_pax_web.csv
+
+-OpenWeatherMap: meteorological data,coordinates and APIs | Weather Data platform
+
 
 
 
