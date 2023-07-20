@@ -1,5 +1,8 @@
 # project_j
 
+## AIR TRAVEL ANALYSIS IN AUSTRALIA	
+____________________________________
+
 ## Module 1
 
 ## International Travel Analysis: Australia (2000-2022)
@@ -32,7 +35,7 @@ ________________________________________________________________________________
 
 ## International Passenger Airline Analysis: Australia (2003 - September 2022)
 
-This module contains an in-depth analysis on international airlines to and from Australia between 2003 and September 2022. The analysis focuses on identifying top passenger airlines operating in and out of Australia over years, seat utilization on flights to various country ports, their correlation with popular ports if any, finding popular international port cities by total number of flights, finding country ports with consistent high seat utilization, and potential opportunity for increasing number of flights on analysed routes. 
+This module contains an analysis on international airlines to and from Australia between 2003 and September 2022. The analysis focuses on identifying top passenger airlines operating in and out of Australia over years, seat utilization on flights to various country ports, their correlation with popular ports if any, finding popular international port cities by total number of flights, finding country ports with consistent high seat utilization, and potential opportunity for increasing number of flights on analysed routes. 
 
 ## Contributor:
 Jyotsna Jayaraman
@@ -118,7 +121,25 @@ The dataset used for this analysis covers the years 2000 – 2022 with following
 - Passengers_In: international passengers to Australia
 - AustralianPort: local city destination in Australia
 
+_________________________________________________________________________________________
 
+## High level Summary of Findings:
+-	The top five countries with the highest number of passengers both "to" and "from" Australia in years 2000-2022 are: New Zealand, Singapore, USA, United Arab Emirates and Hong Kong.
+-	The most popular months to visit Australia are January, July, and October.
+-	The most popular months for passengers to leave Australia are December and January.
+-	The decline of international travellers from 2020 can be significantly attributed to Covid 19, with the closure of international border.
+-	It was observed that in both total number of domestic and international passengers that the most frequented airports were Sydney, Melbourne and Brisbane
+-	Cairns and Darwin were the only airports that demonstrated a similar trend of monthly average peaks in the winter months of Australia (June-August) in domestic and international passengers. 
+-	The highest monthly average number of domestic passengers who frequented Cairns Airport was in the month of July and for international passengers it was the month of August.
+-	Quantas followed by Singapore airlines were the most popular airlines between 2003 and September 2022
+-	Quantas followed by Air New Zealand were the most popular airlines by total number of flights between 2003 and September 2022.
+-	In 2021 ( covid year) Qatar airlines entered the top 5 list for Australia.
+-	Singapore airline’s % contribution in top 5 has constantly improved and Emirates has been very consistent.
+-	There could be a potential opportunity to increase direct flights to India due to consistently high seat utilization% – this could be a candidate for a deeper analysis.
+
+## Disclaimer:
+- This project is created by students for a university assignment hence may not be used for any official purposes.
+- The data used is from https://data.gov.au/ - uploaded and maintained by Bureau of Infrastructure and Transport Research Economics and all notes on using the data and limittions associated with them on the site hold true 
 
 
 
