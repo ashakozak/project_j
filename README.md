@@ -139,7 +139,7 @@ ________________________________________________________________________________
 
 ## Disclaimer:
 - This project is created by students for a university assignment hence may not be used for any official purposes.
-- The data used is from https://data.gov.au/ - uploaded and maintained by Bureau of Infrastructure and Transport Research Economics and all notes on using the data and limittions associated with them on the site hold true 
+- The data used is from https://data.gov.au/ - uploaded and maintained by Bureau of Infrastructure and Transport Research Economics and all notes on using the data and limittions associated with them on the site hold true for this project.
 
 
 
