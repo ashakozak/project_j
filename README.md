@@ -129,8 +129,8 @@ ________________________________________________________________________________
 -	The most popular months for passengers to leave Australia are December and January.
 -	The decline of international travellers from 2020 can be significantly attributed to Covid 19, with the closure of international border.
 -	It was observed that in both total number of domestic and international passengers that the most frequented airports were Sydney, Melbourne and Brisbane
+-	Total number of Domestic passengers significantly exceeds the total number of International passengers who frequented all Australian Airports
 -	Cairns and Darwin were the only airports that demonstrated a similar trend of monthly average peaks in the winter months of Australia (June-August) in domestic and international passengers. 
--	The highest monthly average number of domestic passengers who frequented Cairns Airport was in the month of July and for international passengers it was the month of August.
 -	Quantas followed by Singapore airlines were the most popular airlines between 2003 and September 2022
 -	Quantas followed by Air New Zealand were the most popular airlines by total number of flights between 2003 and September 2022.
 -	In 2021 ( covid year) Qatar airlines entered the top 5 list for Australia.
